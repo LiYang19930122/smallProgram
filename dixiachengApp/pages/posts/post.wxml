@@ -1,0 +1,24 @@
+<!--pages/post/post.wxml-->
+<import src="post-item/post-item-template.wxml" />
+<!--轮播图显示  -->
+<view>
+  <swiper indicator-dots='true' autoplay='true' interval='5000'>
+    <swiper-item>
+      <image src='/images/timg.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='/images/0.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='/images/gp.jpg'></image>
+    </swiper-item>
+  </swiper>
+  <!--新闻列表循环显示  -->
+  <block wx:for="{{posts_key}}" wx:for-item="item">
+    <!--template  模版化-->
+    <view catchtap="onPostTap" data-postid="{{item.postId}}">
+      <template is='postItem' data='{{...item}}'  />
+    </view>
+  </block>
+
+</view>
