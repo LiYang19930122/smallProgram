@@ -1,0 +1,7 @@
+{
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "新闻",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+}
