@@ -2,8 +2,8 @@
 <!--div  -->
 <view class='container'>
   <image class='user-avater' src='/images/c.jpg'></image>
-  <text class='user-name'>地下城欢迎你！</text>
+  <text class='user-name'>一眼观天下！</text>
   <view class='moto-container' bindtap='onTip'>
-    <text class='moto'>开启吃货之旅</text>
+    <text class='moto'>开启探索之旅</text>
   </view>
 </view>

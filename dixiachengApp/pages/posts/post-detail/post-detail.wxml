@@ -1,3 +1,20 @@
-<text>
-ajdjakh
-</text>
+<!--先静后动，先样式后数据  -->
+<view class='container'>
+  <image class='head-image' src='/images/post/crab.jpg'></image>
+  <image class='audio' src='/images/music/music-start.png'></image>
+  <view class='author-date'>
+    <image class='avatar' src='/images/avatar/2.png'></image>
+    <text class='author'>李洋</text>
+    <text class='const-text'>发表于</text>
+    <text class='date'>今天</text>
+  </view>
+  <text class='title'>外长王毅就外交回答中外记者提问</text>
+  <view class='tool'>
+    <view class='circle-img'>
+      <image src='/images/icon/collection.png'></image>
+      <image class='share-img' src='/images/icon/share.png'></image>
+    </view>
+    <view class='horizon'></view>
+  </view>
+  <text class='detail'>中国元首外交今年有何计划?\n党的十八大以来，习近平主席作为中国特色大国外交的总设计师，亲自擘画和推进了精彩纷呈的元首外交。\n习主席遍访世界57个国家，接待了110多位外国元首访华，这些重大的外交行动不仅极大增进了国际社会对中国的了解，有效提升了中国的国际地位和影响，也为解决当今许多全球性问题指明了方向。而习主席本人的领袖风范和人格魅力，也使很多不同社会制度、不同文化背景的领导人都成为了他的好朋友，成为了中国的好朋友。\n美中是否在加大争夺在拉美和加勒比海地区的影响？\n王毅回应道：中拉合作是发展中国家之间的相互帮助和相互支持，不针对和取代谁，也无意动谁的奶酪。中拉合作之所以发展这么快，是因为符合拉美国家的需求，改善了拉美国家的民生，提高了拉美国家的自主发展能力。\n“过去5年，习近平主席三次踏上拉美大陆，足迹遍及10个拉美国家。中拉合作不断拓展深化、提质升级。中国目前已经是很多拉美国家的主要贸易伙伴。中国企业为拉美累计创造了180多万个就业岗位。志合者，不以山海为远。这句话恰如其分地反映了当前中拉关系的现状。宽广的太平洋正在把中拉双方联接在一起，成为跨越万水千山的合作伙伴。</text>
+</view>

@@ -1,16 +1,16 @@
 var posts_content = [
   {
-    date: "Sep 18 2016",
-    title: "正是虾肥蟹壮时",
-    imgSrc: "/images/post/crab.png",
+    date: "2018/3/8",
+    title: "外长王毅就外交回答中外记者提问",
+    imgSrc: "/images/post/crab.jpg",
     avatar: "/images/avatar/1.png",
-    content: "菊黄蟹正肥，品尝秋之味。徐志摩把,“看初花的荻芦”和“到楼外楼吃蟹”,并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满，",
+    content: "3月8日，十三届全国人大一次会议新闻中心3月8日（星期四）上午10时在梅地亚中心多功能厅举行记者会，邀请外交部部长王毅就“中国外交政策和对外关系”回答中外记者提问。",
     reading: "112",
     collection: "96",
     headImgSrc: "/images/post/crab.png",
     author: "林白衣",
     dateTime: "24小时前",
-    detail: "菊黄蟹正肥，品尝秋之味。徐志摩把“看初花的荻芦”和“到楼外楼吃蟹”并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满，壳凸红脂块块香”；在《世说新语》里，晋毕卓更是感叹“右手持酒杯，左手持蟹螯，拍浮酒船中，便足了一生矣。”漫漫人生长路，美食与爱岂可辜负？于是作为一个吃货，突然也很想回味一下属于我的味蕾记忆。记忆中的秋蟹，是家人的味道，弥漫着浓浓的亲情。\n\n是谁来自山川湖海，却囿于昼夜，厨房与爱？ 是母亲，深思熟虑，聪明耐心。吃蟹前，总会拿出几件工具，煞有介事而乐此不疲。告诉我们螃蟹至寒，需要佐以姜茶以祛寒，在配备的米醋小碟里，亦添入姜丝与紫苏，前者驱寒后者增香。泡好菊花茶，岁月静好，我们静等。",
+    detail: "中国元首外交今年有何计划?\n党的十八大以来，习近平主席作为中国特色大国外交的总设计师，亲自擘画和推进了精彩纷呈的元首外交。\n习主席遍访世界57个国家，接待了110多位外国元首访华，这些重大的外交行动不仅极大增进了国际社会对中国的了解，有效提升了中国的国际地位和影响，也为解决当今许多全球性问题指明了方向。而习主席本人的领袖风范和人格魅力，也使很多不同社会制度、不同文化背景的领导人都成为了他的好朋友，成为了中国的好朋友。\n美中是否在加大争夺在拉美和加勒比海地区的影响？\n王毅回应道：中拉合作是发展中国家之间的相互帮助和相互支持，不针对和取代谁，也无意动谁的奶酪。中拉合作之所以发展这么快，是因为符合拉美国家的需求，改善了拉美国家的民生，提高了拉美国家的自主发展能力。\n“过去5年，习近平主席三次踏上拉美大陆，足迹遍及10个拉美国家。中拉合作不断拓展深化、提质升级。中国目前已经是很多拉美国家的主要贸易伙伴。中国企业为拉美累计创造了180多万个就业岗位。志合者，不以山海为远。这句话恰如其分地反映了当前中拉关系的现状。宽广的太平洋正在把中拉双方联接在一起，成为跨越万水千山的合作伙伴。",
     postId: 0,
     music: {
       url: "http://ws.stream.qqmusic.qq.com/C100003507bR0gDKBm.m4a?fromtag=38",
@@ -28,7 +28,7 @@ var posts_content = [
     dateTime: "24小时前",
     headImgSrc: "/images/post/bl.png",
     author: "迷的城",
-    date: "Nov 20 2016",
+    date: "2018/3/7",
     avatar: "/images/avatar/1.png",
     postId: 1,
     music: {
@@ -47,7 +47,7 @@ var posts_content = [
     reading: 62,
     collection: 92,
     author: "知乎",
-    date: "Nov 12 2016",
+    date: "2018/3/7",
     dateTime: "三天前",
     avatar: "/images/avatar/3.png",
     postId: 2,
@@ -67,7 +67,7 @@ var posts_content = [
     dateTime: "24小时前",
     headImgSrc: "/images/post/xiaolong.jpg",
     author: "猫是猫的猫",
-    date: "Nov 20 2016",
+    date: "2018/3/6",
     avatar: "/images/avatar/5.png",
     postId: 3,
     music: {
@@ -86,7 +86,7 @@ var posts_content = [
     dateTime: "24小时前",
     headImgSrc: "/images/post/vr.png",
     author: "深白色",
-    date: "Nov 20 2016",
+    date: "2018/3/6",
     avatar: "../../../images/avatar/3.png",
     postId: 4,
     music: {
@@ -105,7 +105,7 @@ var posts_content = [
     dateTime: "21小时前",
     headImgSrc: "/images/iqiyi.png",
     author: "深白色",
-    date: "Nov 20 2016",
+    date: "2018/3/6",
     avatar: "../../../images/avatar/5.png",
     postId: 5,
     music: {
