@@ -1,7 +1,6 @@
 {
-    "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "地下城周要",
+    "navigationBarTitleText": "新闻",
     "backgroundColor": "#eeeeee",
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": false

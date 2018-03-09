@@ -1,4 +1,5 @@
 Page({
+
   onTip:function(){
     // wx.navigateTo({
     //   url: '../posts/post',
@@ -8,6 +9,4 @@ Page({
     })
   }
 
-
 })
-
